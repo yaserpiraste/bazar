@@ -1,0 +1,22 @@
+@charset "utf-8";
+table, th, td 
+				{
+					background:#c82c74;
+					margin:25px auto;
+					font-family: b nazanin;
+					font-size: 20px;
+				}
+			table, th, td 
+				{
+					border: 1px solid black;
+					border-collapse: collapse;
+				}
+			th, td 
+				{
+					padding: 15px;
+				}
+			caption
+			{
+				margin-bottom:15px;
+				color:#c82c74;
+			}

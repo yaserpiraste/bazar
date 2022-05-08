@@ -1,0 +1,9 @@
+{
+    "cSpell.enableFiletypes": [
+        "!restructuredtext",
+        "platformio-debug.memoryview",
+        "xdc"
+    ],
+    "nrf-connect.toolchain.path": "${workspaceFolder}",
+    "workbench.colorCustomizations": {}
+}
